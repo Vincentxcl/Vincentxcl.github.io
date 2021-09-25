@@ -1,2 +1,0 @@
-# Vincentxcl.github.io
-MyBlog
